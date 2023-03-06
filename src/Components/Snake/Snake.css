@@ -1,0 +1,8 @@
+.snake-dot {
+    background: linear-gradient(235deg, #89ff00, #010615);
+    border: 1px solid #ccc;
+    height: 2%;
+    position: absolute;
+    width: 2%;
+    z-index: 2020;
+}

@@ -1,0 +1,23 @@
+@media (max-width: 641px) {
+    html {
+        font-size: 10px;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: radial-gradient(#246, #002);
+}
+
+.game-arena {
+    background-color: white;
+    background-size: 2% 2%;
+    background-repeat: repeat;
+    border: 2px solid #000;
+    height: 35rem;
+    margin: 0.8rem auto;
+    position: relative;
+    width: 35rem;
+}

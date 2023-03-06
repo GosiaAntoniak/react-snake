@@ -1,0 +1,19 @@
+.score {
+    color: #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+    left: 0%;
+    letter-spacing: 2px;
+    margin: 1rem;
+    padding: 0.5rem;
+    position: absolute;
+    top: 145%;
+    text-transform: uppercase;
+}
+
+@media (min-width: 641px) {
+    .score {
+        top: 100%;
+    }
+}

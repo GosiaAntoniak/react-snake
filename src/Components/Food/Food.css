@@ -1,0 +1,7 @@
+.snake-food {
+    background: #010615;
+    border: 1px solid #ccc;
+    height: 2%;
+    position: absolute;
+    width: 2%;
+}
